@@ -1,0 +1,7 @@
+{
+  "name": "مخزون الورشة الصناعية",
+  "description": "مساعد ذكي متخصص في إدارة وتصنيف مخزون ورشة التصنيع الصناعي وأتمتة الأكواد والتخزين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
